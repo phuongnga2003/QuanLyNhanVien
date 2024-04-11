@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./menuchucnangthongtinnhanvien.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="menuchucnangthongtinnhanvien">
+      <div class="menuchucnangthongtinnhanvien-child"></div>
+      <b class="thng-tin-nhn6">Thông Tin Nhân Viên</b>
+      <img
+        class="menuchucnangthongtinnhanvien-item"
+        alt=""
+        src="./public/rectangle-54.svg"
+      />
+
+      <b class="h-s-nhn" id="hSNhn">Hồ Sơ Nhân Viên</b>
+      <b class="cp-nht1" id="cpNhtText"> Cập Nhật</b>
+      <img class="menuchucnangthongtinnhanvien-inner" alt="" />
+
+      <div class="menuchucnangthongtinnhanvien-child1"></div>
+      <div class="menuchucnangthongtinnhanvien-child2"></div>
+      <div class="menuchucnangthongtinnhanvien-child3"></div>
+      <div class="menuchucnangthongtinnhanvien-child4"></div>
+      <img
+        class="menuchucnangthongtinnhanvien-child5"
+        alt=""
+        src="./public/rectangle-57.svg"
+      />
+
+      <b class="thot7" id="thotText">Thoát</b>
+      <b class="b16" id="text">&lt;&lt;</b>
+    </div>
+
+    <script>
+      var hSNhn = document.getElementById("hSNhn");
+      if (hSNhn) {
+        hSNhn.addEventListener("click", function (e) {
+          window.location.href = "./hosonhanvien.html";
+        });
+      }
+      
+      var cpNhtText = document.getElementById("cpNhtText");
+      if (cpNhtText) {
+        cpNhtText.addEventListener("click", function (e) {
+          window.location.href = "./capnhat.html";
+        });
+      }
+      
+      var thotText = document.getElementById("thotText");
+      if (thotText) {
+        thotText.addEventListener("click", function (e) {
+          window.location.href = "./ketthuc.html";
+        });
+      }
+      
+      var text = document.getElementById("text");
+      if (text) {
+        text.addEventListener("click", function (e) {
+          window.location.href = "./menuchinh.html";
+        });
+      }
+      </script>
+  </body>
+</html>

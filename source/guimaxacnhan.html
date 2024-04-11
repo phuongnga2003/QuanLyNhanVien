@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./guimaxacnhan.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="guimaxacnhan">
+      <div class="guimaxacnhan-child"></div>
+      <b class="ng-nhp5">Đăng Nhập</b>
+      <div class="qun-mt-khu4">Quên mật khẩu?</div>
+      <img class="image-6-icon" alt="" src="./public/image-6@2x.png" />
+
+      <div class="phan-ng-lu1">218 Phan Đăng Lưu, TP. Đà Nẵng</div>
+      <div class="guimaxacnhan-item"></div>
+      <b class="qun-mt-khu5">Quên Mật Khẩu</b>
+      <div class="guimaxacnhan-inner" id="groupContainer1">
+        <div class="rectangle-parent5">
+          <div class="group-child5"></div>
+          <b class="gi-m-xc"> Gửi Mã Xác Nhận</b>
+        </div>
+      </div>
+      <div class="bn-cha-c-container3" id="bnChaC">
+        Bạn chưa có tài khoản? <span class="ng-k3">Đăng ký</span> ở đây
+      </div>
+      <div class="text-input-component31">
+        <div class="text-input-component-child29"></div>
+        <div class="blingking31"></div>
+        <b class="text-input31">0122343456</b>
+        <div class="cover-text31"></div>
+        <b class="text-field31">Số điện thoại đã đăng kí:</b>
+      </div>
+    </div>
+
+    <script>
+      var groupContainer1 = document.getElementById("groupContainer1");
+      if (groupContainer1) {
+        groupContainer1.addEventListener("click", function (e) {
+          window.location.href = "./nhapmaxacnhan.html";
+        });
+      }
+      
+      var bnChaC = document.getElementById("bnChaC");
+      if (bnChaC) {
+        bnChaC.addEventListener("click", function (e) {
+          window.location.href = "./taotaikhoan.html";
+        });
+      }
+      </script>
+  </body>
+</html>

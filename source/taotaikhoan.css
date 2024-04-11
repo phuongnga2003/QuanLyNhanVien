@@ -1,0 +1,152 @@
+.to-ti-khon {
+  position: absolute;
+  top: 175px;
+  left: 516px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  color: var(--color-forestgreen);
+  width: 576px;
+  height: 84px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkgreen);
+  border: 1px dashed var(--color-darkolivegreen);
+  box-sizing: border-box;
+  width: 346.19px;
+  height: 68.33px;
+}
+.to-ti-khon1 {
+  position: absolute;
+  top: 16.86px;
+  left: 97.96px;
+  display: inline-block;
+  width: 212.91px;
+  height: 34.16px;
+}
+.mn-hnh-to-ti-khon-inner,
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 346.19px;
+  height: 68.33px;
+}
+.mn-hnh-to-ti-khon-inner {
+  top: 761px;
+  left: 570px;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+  color: var(--color-mintcream);
+}
+.mn-hnh-chnh,
+.mn-hnh-ng {
+  position: absolute;
+  display: inline-block;
+}
+.mn-hnh-ng {
+  top: -40px;
+  left: 507px;
+  font-size: var(--font-size-sm);
+  width: 192px;
+  height: 31px;
+}
+.mn-hnh-chnh {
+  top: 1038px;
+  left: 522px;
+  font-size: 15px;
+  width: 175px;
+  height: 27px;
+}
+.text-input-component-child20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-snow);
+  border: 2px solid var(--color-darkgreen);
+  box-sizing: border-box;
+  width: 337px;
+  height: 49px;
+}
+.blingking22 {
+  position: absolute;
+  top: 22px;
+  left: 9px;
+  border-right: 2px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 2px;
+  height: 22px;
+}
+.text-input22 {
+  position: absolute;
+  top: 24px;
+  left: 16px;
+  display: inline-block;
+  width: 255px;
+}
+.cover-text22 {
+  position: absolute;
+  top: 23px;
+  left: 13px;
+  background-color: var(--color-snow);
+  width: 291px;
+  height: 20px;
+}
+.text-field22 {
+  position: absolute;
+  top: 5px;
+  left: 9px;
+  display: inline-block;
+  color: var(--color-darkgreen);
+  width: 199px;
+}
+.text-input-component22 {
+  position: absolute;
+  top: 327px;
+  left: 570px;
+  width: 337px;
+  height: 49px;
+  overflow: hidden;
+}
+.mn-hnh-to-ti-khon,
+.text-input-component23,
+.text-input-component24,
+.text-input-component25 {
+  position: absolute;
+  top: 427px;
+  left: 570px;
+  width: 337px;
+  height: 49px;
+  overflow: hidden;
+}
+.mn-hnh-to-ti-khon,
+.text-input-component24,
+.text-input-component25 {
+  top: 544px;
+}
+.mn-hnh-to-ti-khon,
+.text-input-component25 {
+  top: 644px;
+}
+.mn-hnh-to-ti-khon {
+  top: 0;
+  left: -13px;
+  background-color: var(--color-honeydew);
+  width: 1453px;
+  height: 1023px;
+}
+.taotaikhoan {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

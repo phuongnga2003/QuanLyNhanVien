@@ -1,0 +1,358 @@
+.hosonhanvien-child {
+  position: absolute;
+  top: -6px;
+  left: 53px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-honeydew);
+  border: 1px solid var(--color-forestgreen);
+  box-sizing: border-box;
+  width: 1485px;
+  height: 985px;
+}
+.h-s-nhn1 {
+  position: absolute;
+  top: 94px;
+  left: 507px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  color: var(--color-forestgreen);
+  width: 768px;
+  height: 85px;
+}
+.hosonhanvien-item {
+  position: absolute;
+  top: 255px;
+  left: 467px;
+  width: 663px;
+  height: 79px;
+}
+.hosonhanvien-child1,
+.hosonhanvien-inner {
+  position: absolute;
+  top: 860px;
+  left: 1270px;
+  background-color: var(--color-firebrick);
+  width: 198px;
+  height: 55px;
+}
+.hosonhanvien-child1 {
+  top: 855px;
+  left: 646px;
+  background-color: var(--color-darkgreen);
+  width: 242px;
+}
+.hosonhanvien-child2,
+.hosonhanvien-child3 {
+  position: absolute;
+  top: 855px;
+  left: 1011px;
+  width: 94px;
+  height: 55px;
+}
+.hosonhanvien-child3 {
+  left: 1135px;
+  width: 98px;
+}
+.b17,
+.b18,
+.cp-nht2,
+.thot9 {
+  position: absolute;
+  top: 860px;
+  left: 1297px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  color: var(--color-snow);
+  width: 195px;
+  height: 66px;
+  cursor: pointer;
+}
+.b17,
+.b18,
+.cp-nht2 {
+  left: 670px;
+  font-size: var(--font-size-17xl);
+  width: 249px;
+}
+.b17,
+.b18 {
+  top: 854px;
+  left: 1032px;
+  font-size: var(--font-size-21xl);
+  width: 195px;
+}
+.b18 {
+  left: 1172px;
+  width: 206px;
+}
+.hosonhanvien-child4,
+.hosonhanvien-child5 {
+  position: absolute;
+  top: -6px;
+  left: 10px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+  width: 388px;
+  height: 985px;
+}
+.hosonhanvien-child5 {
+  background-color: var(--color-darkseagreen);
+  border: 10px solid var(--color-darkolivegreen);
+  height: 185px;
+}
+.qun-l6 {
+  margin: 0;
+}
+.qun-l-nhn-container6 {
+  position: absolute;
+  top: 9px;
+  left: -184px;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  color: var(--color-forestgreen);
+  text-align: center;
+  width: 768px;
+  height: 85px;
+}
+.hosonhanvien-child6,
+.hosonhanvien-child7,
+.thng-tin-nhn8 {
+  position: absolute;
+  top: 179px;
+  left: 10px;
+  width: 388px;
+  height: 88px;
+}
+.hosonhanvien-child7,
+.thng-tin-nhn8 {
+  top: 261px;
+  height: 96px;
+}
+.thng-tin-nhn8 {
+  top: 211px;
+  left: 30px;
+  display: inline-block;
+  width: 381px;
+  height: 44px;
+  cursor: pointer;
+}
+.a-ch1,
+.chm-cng8,
+.cmnd1,
+.gii-tnh1,
+.h-v-tn6,
+.in-thoi1,
+.ngy-sinh1,
+.ngy-vo1,
+.qu-qun1 {
+  position: absolute;
+  top: 219px;
+  left: 448px;
+  display: inline-block;
+  width: 381px;
+  height: 44px;
+}
+.a-ch1,
+.chm-cng8,
+.cmnd1,
+.gii-tnh1,
+.in-thoi1,
+.ngy-sinh1,
+.ngy-vo1,
+.qu-qun1 {
+  top: 289px;
+}
+.chm-cng8,
+.cmnd1,
+.gii-tnh1,
+.in-thoi1,
+.ngy-sinh1,
+.ngy-vo1,
+.qu-qun1 {
+  top: 360px;
+}
+.chm-cng8,
+.gii-tnh1,
+.in-thoi1,
+.ngy-sinh1,
+.ngy-vo1,
+.qu-qun1 {
+  top: 502px;
+  left: 444px;
+}
+.chm-cng8,
+.in-thoi1,
+.ngy-sinh1,
+.ngy-vo1,
+.qu-qun1 {
+  top: 571px;
+  left: 448px;
+}
+.chm-cng8,
+.in-thoi1,
+.ngy-sinh1,
+.ngy-vo1 {
+  top: 642px;
+}
+.chm-cng8,
+.ngy-sinh1,
+.ngy-vo1 {
+  top: 711px;
+}
+.chm-cng8,
+.ngy-sinh1 {
+  top: 433px;
+  left: 444px;
+}
+.chm-cng8 {
+  top: 295px;
+  left: 93px;
+  width: 198px;
+  cursor: pointer;
+}
+.hosonhanvien-child8 {
+  position: absolute;
+  top: 668px;
+  left: 10.15px;
+  width: 345.9px;
+  height: 4px;
+}
+.hosonhanvien-child10,
+.hosonhanvien-child9 {
+  position: absolute;
+  top: 222.1px;
+  left: 362.99px;
+  width: 17.76px;
+  height: 18.36px;
+}
+.hosonhanvien-child10 {
+  top: 310.1px;
+}
+.hosonhanvien-child11 {
+  position: absolute;
+  top: 87px;
+  left: 1192px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-100);
+  border: 8px solid var(--color-darkgreen);
+  box-sizing: border-box;
+  width: 256px;
+  height: 242px;
+}
+.nh-i-din1 {
+  position: absolute;
+  top: 329px;
+  left: 1245px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 150px;
+}
+.text-input-component-child30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-snow);
+  border: 2px solid var(--color-darkgreen);
+  box-sizing: border-box;
+  width: 337px;
+  height: 49px;
+}
+.blingking32 {
+  position: absolute;
+  top: 22px;
+  left: 9px;
+  border-right: 2px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 2px;
+  height: 22px;
+}
+.text-input32 {
+  position: absolute;
+  top: 24px;
+  left: 16px;
+  display: inline-block;
+  width: 255px;
+}
+.cover-text32 {
+  position: absolute;
+  top: 23px;
+  left: 13px;
+  background-color: var(--color-snow);
+  width: 291px;
+  height: 20px;
+}
+.text-field32 {
+  position: absolute;
+  top: 5px;
+  left: 9px;
+  display: inline-block;
+  color: var(--color-gray-100);
+  width: 199px;
+}
+.text-input-component32,
+.text-input-component33 {
+  position: absolute;
+  top: 212px;
+  left: 627px;
+  width: 337px;
+  height: 49px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.text-input-component33 {
+  top: 280px;
+}
+.text-input-component34,
+.text-input-component35,
+.text-input-component36,
+.text-input-component37,
+.text-input-component38,
+.text-input-component39 {
+  position: absolute;
+  top: 344px;
+  left: 630px;
+  width: 337px;
+  height: 49px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.text-input-component35,
+.text-input-component36,
+.text-input-component37,
+.text-input-component38,
+.text-input-component39 {
+  top: 415px;
+}
+.text-input-component36,
+.text-input-component37,
+.text-input-component38,
+.text-input-component39 {
+  top: 488px;
+}
+.text-input-component37,
+.text-input-component38,
+.text-input-component39 {
+  top: 563px;
+}
+.text-input-component38,
+.text-input-component39 {
+  top: 641px;
+}
+.text-input-component39 {
+  top: 713px;
+}
+.hosonhanvien {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 974px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkgreen);
+  font-family: var(--font-inter);
+}

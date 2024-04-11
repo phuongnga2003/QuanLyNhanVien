@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./menuchinh.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="menuchinh">
+      <div class="menuchinh-child"></div>
+      <b class="qun-l-nhn">Quản Lý Nhân Viên</b>
+      <img class="menuchinh-item" alt="" src="./public/rectangle-54.svg" />
+
+      <b class="thng-tin-nhn7" id="thngTinNhn">Thông Tin Nhân Viên</b>
+      <b class="chm-cng7" id="chmCngText">Chấm Công</b>
+      <img class="menuchinh-inner" alt="" />
+
+      <div class="menuchinh-child1"></div>
+      <div class="menuchinh-child2"></div>
+      <div class="menuchinh-child3"></div>
+      <div class="menuchinh-child4"></div>
+      <b class="thot8">Thoát</b>
+    </div>
+
+    <script>
+      var thngTinNhn = document.getElementById("thngTinNhn");
+      if (thngTinNhn) {
+        thngTinNhn.addEventListener("click", function (e) {
+          window.location.href = "./menuchucnangthongtinnhanvien.html";
+        });
+      }
+      
+      var chmCngText = document.getElementById("chmCngText");
+      if (chmCngText) {
+        chmCngText.addEventListener("click", function (e) {
+          window.location.href = "./chamcong.html";
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -1,0 +1,383 @@
+.capnhat-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-honeydew);
+  width: 1440px;
+  height: 1024px;
+}
+.cp-nht {
+  position: absolute;
+  top: 139px;
+  left: 468px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  color: var(--color-forestgreen);
+  width: 724px;
+  height: 85px;
+}
+.capnhat-item {
+  position: absolute;
+  top: 300px;
+  left: 431px;
+  width: 624px;
+  height: 79px;
+}
+.capnhat-child1,
+.capnhat-inner {
+  position: absolute;
+  top: 905px;
+  left: 1187px;
+  background-color: var(--color-firebrick);
+  width: 187px;
+  height: 55px;
+}
+.capnhat-child1 {
+  top: 900px;
+  left: 599px;
+  background-color: var(--color-darkgreen);
+  width: 228px;
+}
+.capnhat-child2,
+.capnhat-child3 {
+  position: absolute;
+  top: 900px;
+  left: 943px;
+  width: 89px;
+  height: 55px;
+}
+.capnhat-child3 {
+  left: 1060px;
+  width: 93px;
+}
+.b14,
+.b15,
+.hon-tt2,
+.thot6 {
+  position: absolute;
+  top: 905px;
+  left: 1213px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  color: var(--color-snow);
+  width: 184px;
+  height: 66px;
+  cursor: pointer;
+}
+.b14,
+.b15,
+.hon-tt2 {
+  left: 622px;
+  font-size: var(--font-size-17xl);
+  width: 235px;
+}
+.b14,
+.b15 {
+  top: 899px;
+  left: 963px;
+  font-size: var(--font-size-21xl);
+  width: 184px;
+}
+.b15 {
+  left: 1095px;
+  width: 194px;
+}
+.capnhat-child4,
+.capnhat-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-darkolivegreen);
+  box-sizing: border-box;
+  width: 366px;
+  height: 1024px;
+}
+.capnhat-child5 {
+  background-color: var(--color-darkseagreen);
+  border: 10px solid var(--color-darkolivegreen);
+  height: 224px;
+}
+.qun-l5 {
+  margin: 0;
+}
+.qun-l-nhn-container5 {
+  position: absolute;
+  top: 54px;
+  left: -183px;
+  font-size: var(--font-size-29xl);
+  display: inline-block;
+  color: var(--color-forestgreen);
+  text-align: center;
+  width: 724px;
+  height: 85px;
+}
+.capnhat-child6,
+.capnhat-child7,
+.thng-tin-nhn5 {
+  position: absolute;
+  top: 224px;
+  left: 0;
+  width: 366px;
+  height: 88px;
+}
+.capnhat-child7,
+.thng-tin-nhn5 {
+  top: 306px;
+  height: 96px;
+}
+.thng-tin-nhn5 {
+  top: 256px;
+  left: 19px;
+  display: inline-block;
+  width: 359px;
+  height: 44px;
+  cursor: pointer;
+}
+.a-ch,
+.chm-cng6,
+.cmnd,
+.gii-tnh,
+.h-v-tn5,
+.in-thoi,
+.ngy-sinh,
+.ngy-vo,
+.qu-qun {
+  position: absolute;
+  top: 264px;
+  left: 413px;
+  display: inline-block;
+  width: 359px;
+  height: 44px;
+}
+.a-ch,
+.chm-cng6,
+.cmnd,
+.gii-tnh,
+.in-thoi,
+.ngy-sinh,
+.ngy-vo,
+.qu-qun {
+  top: 334px;
+}
+.chm-cng6,
+.cmnd,
+.gii-tnh,
+.in-thoi,
+.ngy-sinh,
+.ngy-vo,
+.qu-qun {
+  top: 405px;
+}
+.chm-cng6,
+.gii-tnh,
+.in-thoi,
+.ngy-sinh,
+.ngy-vo,
+.qu-qun {
+  top: 547px;
+  left: 409px;
+}
+.chm-cng6,
+.in-thoi,
+.ngy-sinh,
+.ngy-vo,
+.qu-qun {
+  top: 616px;
+  left: 413px;
+}
+.chm-cng6,
+.in-thoi,
+.ngy-sinh,
+.ngy-vo {
+  top: 687px;
+}
+.chm-cng6,
+.ngy-sinh,
+.ngy-vo {
+  top: 756px;
+}
+.chm-cng6,
+.ngy-sinh {
+  top: 478px;
+  left: 409px;
+}
+.chm-cng6 {
+  top: 340px;
+  left: 78px;
+  width: 187px;
+  cursor: pointer;
+}
+.capnhat-child8 {
+  position: absolute;
+  top: 713px;
+  left: 0;
+  width: 326px;
+  height: 4px;
+}
+.capnhat-child10,
+.capnhat-child11,
+.capnhat-child9 {
+  position: absolute;
+  top: 267.1px;
+  left: 332.54px;
+  width: 16.74px;
+  height: 18.36px;
+}
+.capnhat-child10,
+.capnhat-child11 {
+  top: 355.1px;
+}
+.capnhat-child11 {
+  top: 132px;
+  left: 1114px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-100);
+  border: 8px solid var(--color-darkgreen);
+  box-sizing: border-box;
+  width: 241px;
+  height: 242px;
+}
+.nh-i-din {
+  position: absolute;
+  top: 374px;
+  left: 1164px;
+  font-size: var(--font-size-5xl);
+}
+.capnhat-child12,
+.capnhat-child13 {
+  position: absolute;
+  top: 224px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 40px;
+}
+.capnhat-child12 {
+  left: 1139px;
+  background-color: #d9d9d9;
+  width: 103px;
+}
+.capnhat-child13 {
+  left: 1242px;
+  background-color: var(--color-snow);
+  width: 93px;
+}
+.chn-tp {
+  position: absolute;
+  top: 233px;
+  left: 1148px;
+  font-size: var(--font-size-xl);
+  color: var(--color-firebrick);
+  display: inline-block;
+  width: 113px;
+  height: 20px;
+}
+.text-input-component-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-snow);
+  border: 2px solid var(--color-darkgreen);
+  box-sizing: border-box;
+  width: 337px;
+  height: 49px;
+}
+.blingking14 {
+  position: absolute;
+  top: 22px;
+  left: 9px;
+  border-right: 2px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 2px;
+  height: 22px;
+}
+.text-input14 {
+  position: absolute;
+  top: 24px;
+  left: 16px;
+  display: inline-block;
+  width: 255px;
+}
+.cover-text14 {
+  position: absolute;
+  top: 23px;
+  left: 13px;
+  background-color: var(--color-snow);
+  width: 291px;
+  height: 20px;
+}
+.text-field14 {
+  position: absolute;
+  top: 5px;
+  left: 9px;
+  display: inline-block;
+  color: var(--color-gray-100);
+  width: 199px;
+}
+.text-input-component14,
+.text-input-component15 {
+  position: absolute;
+  top: 257px;
+  left: 584px;
+  width: 337px;
+  height: 49px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.text-input-component15 {
+  top: 331px;
+}
+.text-input-component16,
+.text-input-component17,
+.text-input-component18,
+.text-input-component19,
+.text-input-component20,
+.text-input-component21 {
+  position: absolute;
+  top: 397px;
+  left: 584px;
+  width: 337px;
+  height: 49px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.text-input-component17,
+.text-input-component18,
+.text-input-component19,
+.text-input-component20,
+.text-input-component21 {
+  top: 472px;
+}
+.text-input-component18,
+.text-input-component19,
+.text-input-component20,
+.text-input-component21 {
+  top: 544px;
+  left: 589px;
+}
+.text-input-component19,
+.text-input-component20,
+.text-input-component21 {
+  top: 620px;
+}
+.text-input-component20,
+.text-input-component21 {
+  top: 684px;
+}
+.text-input-component21 {
+  top: 762px;
+}
+.capnhat {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkgreen);
+  font-family: var(--font-inter);
+}

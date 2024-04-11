@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./nhapmaxacnhan.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="nhapmaxacnhan">
+      <div class="nhapmaxacnhan-child"></div>
+      <div class="nhapmaxacnhan-item"></div>
+      <b class="ng-nhp3">Đăng Nhập</b>
+      <div class="nhapmaxacnhan-inner">
+        <div class="rectangle-parent1">
+          <div class="group-child1"></div>
+          <div class="ti-khon">Tài Khoản</div>
+        </div>
+      </div>
+      <div class="nhapmaxacnhan-inner1">
+        <div class="rectangle-parent2">
+          <div class="group-child2"></div>
+          <b class="xc-nhn"> Đăng Nhập</b>
+        </div>
+      </div>
+      <div class="nhapmaxacnhan-inner2">
+        <div class="rectangle-parent3">
+          <div class="group-child3"></div>
+          <div class="mt-khu">Mật khẩu</div>
+          <div class="hin-mt-khu1">Hiện mật khẩu</div>
+        </div>
+      </div>
+      <div class="qun-mt-khu2">Quên mật khẩu?</div>
+      <img
+        class="nhapmaxacnhan-child1"
+        alt=""
+        src="./public/rectangle-13@2x.png"
+      />
+
+      <img class="image-2-icon" alt="" src="./public/image-2@2x.png" />
+
+      <div class="nhapmaxacnhan-child2"></div>
+      <div class="phan-ng-lu">218 Phan Đăng Lưu, TP. Đà Nẵng</div>
+      <div class="nhapmaxacnhan-child"></div>
+      <div class="nhapmaxacnhan-child4"></div>
+      <b class="qun-mt-khu3">Quên Mật Khẩu</b>
+      <div class="text-input-component30">
+        <div class="text-input-component-child28"></div>
+        <div class="blingking30"></div>
+        <b class="text-input30">554356</b>
+        <div class="cover-text30"></div>
+        <b class="text-field30">Nhập mã xác nhận:</b>
+      </div>
+      <div class="nhapmaxacnhan-inner3" id="groupContainer7">
+        <div class="rectangle-parent2">
+          <div class="group-child4"></div>
+          <b class="xc-nhn"> Xác Nhận</b>
+        </div>
+      </div>
+      <div class="bn-cha-c-container2" id="bnChaC">
+        Bạn chưa có tài khoản? <span class="ng-k2">Đăng ký</span> ở đây
+      </div>
+    </div>
+
+    <script>
+      var groupContainer7 = document.getElementById("groupContainer7");
+      if (groupContainer7) {
+        groupContainer7.addEventListener("click", function (e) {
+          window.location.href = "./datlaimatkhau.html";
+        });
+      }
+      
+      var bnChaC = document.getElementById("bnChaC");
+      if (bnChaC) {
+        bnChaC.addEventListener("click", function (e) {
+          window.location.href = "./taotaikhoan.html";
+        });
+      }
+      </script>
+  </body>
+</html>

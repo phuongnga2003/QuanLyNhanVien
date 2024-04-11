@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;1,400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="dangnhap">
+      <img class="dangnhap-child" alt="" src="./public/rectangle-278.svg" />
+
+      <img class="dangnhap-item" alt="" />
+
+      <div class="mn-hnh-ng1">Màn hình đăng nhập</div>
+      <img class="dangnhap-inner" alt="" src="./public/rectangle-8.svg" />
+
+      <b class="ng-nhp1">Đăng Nhập</b>
+      <div class="group-div">
+        <div class="rectangle-container">
+          <div class="group-inner"></div>
+          <b class="ng-nhp2" id="ngNhpText1"> Đăng Nhập</b>
+        </div>
+      </div>
+      <div class="qun-mt-khu1" id="qunMtKhu">Quên mật khẩu?</div>
+      <div class="hin-mt-khu">Hiện mật khẩu</div>
+      <div class="bn-cha-c-container1" id="bnChaC">
+        Bạn chưa có tài khoản? <span class="ng-k1">Đăng ký</span> ở đây
+      </div>
+      <div class="mn-hnh-ng1">Màn hình đăng nhập</div>
+      <div class="text-input-component28">
+        <div class="text-input-component-child26"></div>
+        <div class="blingking28"></div>
+        <b class="text-input28">0122343456</b>
+        <div class="cover-text28"></div>
+        <b class="text-field28">Số điện thoại:</b>
+      </div>
+      <div class="text-input-component29">
+        <div class="text-input-component-child26"></div>
+        <div class="blingking28"></div>
+        <b class="text-input28">********</b>
+        <div class="cover-text28"></div>
+        <b class="text-field28">Mật khẩu:</b>
+      </div>
+    </div>
+
+    <script>
+      var ngNhpText1 = document.getElementById("ngNhpText1");
+      if (ngNhpText1) {
+        ngNhpText1.addEventListener("click", function (e) {
+          window.location.href = "./menuchinh.html";
+        });
+      }
+      
+      var qunMtKhu = document.getElementById("qunMtKhu");
+      if (qunMtKhu) {
+        qunMtKhu.addEventListener("click", function (e) {
+          window.location.href = "./guimaxacnhan.html";
+        });
+      }
+      
+      var bnChaC = document.getElementById("bnChaC");
+      if (bnChaC) {
+        bnChaC.addEventListener("click", function (e) {
+          window.location.href = "./taotaikhoan.html";
+        });
+      }
+      </script>
+  </body>
+</html>
